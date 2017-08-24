@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_vsmall">5dp</dimen>
+    <dimen name="margin_small">10dp</dimen>
+    <dimen name="margin_medium">15dp</dimen>
+    <dimen name="margin_large">20dp</dimen>
+    <dimen name="margin_elarge">28dp</dimen>
+    <dimen name="margin_exlarge">45dp</dimen>
+    <dimen name="textsize_vsmall">10sp</dimen>
+    <dimen name="textsize_small">12sp</dimen>
+    <dimen name="textsize_mid">14sp</dimen>
+    <dimen name="textsize_large">16sp</dimen>
+    <dimen name="textsize_elarge">24sp</dimen>
+
+</resources>
